@@ -1,0 +1,88 @@
+
+.im {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: #FF6500;
+  text-align: center;
+  font-size: 30px;
+}
+.vidhit{
+  font-size: 300px;
+  font-family: "Notable", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.heading{
+  margin-top: 50px;
+}
+.title{
+  /* background-image: url(./San-Francisco-Landmark-Golden-Gate-bridge.jpg);
+  background-size: 100% 180%; */
+  background-color: #1E201E;
+}
+.title2{
+  margin-top: 0;
+  padding: 0;
+  margin-left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+.myself{
+  background-color: #1E201E;
+}
+.frontend{
+  font-weight: bold;
+  color: #FF6500;
+  font-family: "Birthstone", cursive;
+  font-weight: 1000;
+  font-size: 80px;
+}
+.javascript{
+  font-weight: bold;
+  color: #C62300;
+}
+.react{
+  font-weight: bold;
+  color: #C62300;
+}
+.photographer{
+  background-color: #1E201E;
+}
+.card{
+  border: none;
+}
+.skills{
+  background-color: #1E201E;
+}
+.subheading{
+  color: #FF6500;
+}
+.icon{
+  color: white;
+}
+.contact{
+  background-color: #1E201E;
+}
+.me{
+  color:#E2DFD0;
+}
+.btn{
+  background-color: #6EACDA;
+  border: none;
+}
+.footer{
+  background-color: #1E201E;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+.instagram{
+  color: white;
+}
+.github{
+  color: white;
+}
